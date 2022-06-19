@@ -1,9 +1,9 @@
 package lk.pos.entity;
 
-<!--/**
+/**
  * @ author : Akila Dhambure Liyanage
  * @ since : 0.1.0
- **/-->
+ **/
 
 public class Customer {
 
